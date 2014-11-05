@@ -1,0 +1,12 @@
+[submodule "liuwsdotemacs"]
+	path = liuwsdotemacs
+	url = https://github.com/liuw/liuwsdotemacs.git
+[submodule "liuwsdotvimrc"]
+	path = liuwsdotvimrc
+	url = https://github.com/liuw/liuwsdotvimrc.git
+[submodule "tmux.conf"]
+	path = tmux.conf
+	url = https://github.com/liuw/tmux.conf.git
+[submodule "liuwsgitconfig"]
+	path = liuwsgitconfig
+	url = https://github.com/liuw/liuwsgitconfig.git

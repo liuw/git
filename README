@@ -1,0 +1,8 @@
+This is a meta repository for my dotfiles.
+
+Q: Why is it named git?
+A: Because I used to have a directory name `git' for these stuffs
+   and that name is hardcoded into most (if not all?) config files.
+
+Q: No license?
+A: I don't think I need one.
